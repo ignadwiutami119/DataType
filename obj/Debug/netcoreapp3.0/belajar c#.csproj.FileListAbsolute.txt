@@ -1,0 +1,11 @@
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.exe
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.deps.json
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.runtimeconfig.json
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.runtimeconfig.dev.json
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.dll
+D:\Training\belajar c#\bin\Debug\netcoreapp3.0\belajar c#.pdb
+D:\Training\belajar c#\obj\Debug\netcoreapp3.0\belajar c#.csprojAssemblyReference.cache
+D:\Training\belajar c#\obj\Debug\netcoreapp3.0\belajar c#.AssemblyInfoInputs.cache
+D:\Training\belajar c#\obj\Debug\netcoreapp3.0\belajar c#.AssemblyInfo.cs
+D:\Training\belajar c#\obj\Debug\netcoreapp3.0\belajar c#.dll
+D:\Training\belajar c#\obj\Debug\netcoreapp3.0\belajar c#.pdb
